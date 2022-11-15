@@ -1,2 +1,2 @@
-# chatbot_for_mental_health
- creating a chatbot for mental health
+# chatbot_for_people_with_no_friends
+ creating a conversational chatbot to pass the time and not be alone
