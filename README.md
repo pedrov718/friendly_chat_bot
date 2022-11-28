@@ -1,2 +1,5 @@
-# chatbot_for_people_with_no_friends
- creating a conversational chatbot to pass the time and not be alone
+# Creating a conversational Chatbot Using a Transformer FrameWork
+
+## The purpose of this project was to learn and practice transformer models and learn to implement encoder decoder systems in Tensorflow
+
+### The framework of this conversational chatbot was inspired by the code used in the Attention is All You Need published by Google researchers in 2017. 
